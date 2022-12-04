@@ -5,7 +5,6 @@ Bu repo [Kodluyoruz](www.kodluyoruz.org) Front-End Eğitimi kapsamında açtığ
 [![Resim](https://picsum.photos/200/300)](https://github.com/ahaktanakbas/kodluyoruzilkrepo.git)
 
 ## Installation
-***
 Öncelikle projeyi clonelayın. *(Buraya sizin reponuzdan aldığınız link gelecek.)*
 
 ```bash
@@ -14,7 +13,6 @@ git clone https://github.com/ahaktanakbas/kodluyoruzilkrepo.git
 
 
 ## Usage
-***
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
@@ -25,9 +23,7 @@ code .
 ```
 
 ## Contributing
-***
 Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce nereyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## Licence
-***
 [MIT](https://choosealicense.com/licenses/mit/)
